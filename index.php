@@ -53,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-10">
-						<p class="drescription">A web portal hosted on a common <span class="orange"> Cloud Platform </span> for all universities in Ethiopia. Applications are developed and maintained from the same place and can be accessed across all universities. Each university manages its own private data</p>
+						<p class="drescription">A web portal hosted on a common <span class="orange"> Cloud Platform </span> for all universities in Ethiopia. Applications are developed and maintained from the same place and can be accessed across all universities. Each university managesloca its own private data</p>
 					</div>
 				</div>
 				<div class="tiles">
@@ -84,8 +84,8 @@
 												</div>
 												
 												 <div class="list-group">
-													<a href="http://localhost/UMS_new/UMS?univ=astu" class="list-group-item">University Management</a>
-													<a href="http://localhost/THM" class="list-group-item">Thesis Management</a>
+													<a href="http://umseth.herokuapp.com?univ=astu" class="list-group-item">University Management</a>
+													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
 												  </div> 
 												
 												
@@ -138,8 +138,8 @@
 													<h2 class="popup-head">AAU</h2>
 												</div>
 												<div class="list-group">
-													<a href="http://localhost/UMS_new/UMS?univ=aau" class="list-group-item">University Management</a>
-													<a href="http://localhost/THM" class="list-group-item">Thesis Management</a>
+													<a href="http://umseth.herokuapp.com?univ=aau" class="list-group-item">University Management</a>
+													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
 												  </div> 
 												
 												
@@ -193,8 +193,8 @@
 													<h2 class="popup-head">AASTU</h2>
 												</div>
 												<div class="list-group">
-													<a href="http://localhost/UMS_new/UMS?univ=aastu" class="list-group-item">University Management</a>
-													<a href="http://localhost/THM" class="list-group-item">Thesis Management</a>
+													<a href="http://umseth.herokuapp.com?univ=aastu" class="list-group-item">University Management</a>
+													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
 												  </div> 
 												<div class="pop-up-icon">
 													<div class="row">
@@ -245,8 +245,8 @@
 													<h2 class="popup-head">DU</h2>
 												</div>
 												<div class="list-group">
-													<a href="http://localhost/UMS_new/UMS?univ=du" class="list-group-item">University Management</a>
-													<a href="http://localhost/THM" class="list-group-item">Thesis Management</a>
+													<a href="http://umseth.herokuapp.com?univ=du" class="list-group-item">University Management</a>
+													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
 												  </div> 
 												
 												<div class="pop-up-icon">
