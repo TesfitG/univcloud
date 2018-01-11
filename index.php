@@ -84,8 +84,8 @@
 												</div>
 												
 												 <div class="list-group">
-													<a href="http://umseth.herokuapp.com?univ=astu" class="list-group-item">University Management</a>
-													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
+													<a href="https://umseth.herokuapp.com?univ=astu" class="list-group-item">University Management</a>
+													<a href="https://thmeth.herokuapp.com" class="list-group-item">Thesis Management</a>
 												  </div> 
 												
 												
@@ -138,8 +138,8 @@
 													<h2 class="popup-head">AAU</h2>
 												</div>
 												<div class="list-group">
-													<a href="http://umseth.herokuapp.com?univ=aau" class="list-group-item">University Management</a>
-													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
+													<a href="https://umseth.herokuapp.com?univ=aau" class="list-group-item">University Management</a>
+													<a href="https://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
 												  </div> 
 												
 												
@@ -193,8 +193,8 @@
 													<h2 class="popup-head">AASTU</h2>
 												</div>
 												<div class="list-group">
-													<a href="http://umseth.herokuapp.com?univ=aastu" class="list-group-item">University Management</a>
-													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
+													<a href="https://umseth.herokuapp.com?univ=aastu" class="list-group-item">University Management</a>
+													<a href="https://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
 												  </div> 
 												<div class="pop-up-icon">
 													<div class="row">
@@ -245,8 +245,8 @@
 													<h2 class="popup-head">DU</h2>
 												</div>
 												<div class="list-group">
-													<a href="http://umseth.herokuapp.com?univ=du" class="list-group-item">University Management</a>
-													<a href="http://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
+													<a href="https://umseth.herokuapp.com?univ=du" class="list-group-item">University Management</a>
+													<a href="https://thmeth.herokuapp.com"class="list-group-item">Thesis Management</a>
 												  </div> 
 												
 												<div class="pop-up-icon">
