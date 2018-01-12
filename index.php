@@ -171,7 +171,7 @@
 						<div class="col-md-3">
 							<div class="a">
 								<a href="#test-popup-3" class="open-popup-link">
-									<img src="images/aastulogo.jpg"   style="max-height: 100%;" alt="Responsive image">
+									<img src="images/aastulogo.jpg"   class="img-responsive" alt="Responsive image">
 									<div class="img-hover glass">
 										<div class="c-table">
 											<div class="ct-cell">
