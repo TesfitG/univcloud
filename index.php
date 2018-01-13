@@ -11,7 +11,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Istok+Web" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet">
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">
-
+	
 		<link rel="stylesheet" type="text/css" href="assets/css/main.css">
 	</head>
 
@@ -53,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-10">
-						<p class="drescription">A web portal hosted on a common <span class="orange"> Cloud Platform </span> for all universities in Ethiopia. Applications are developed and maintained from the same place and can be accessed across all universities. Each university managesloca its own private data</p>
+						<p class="drescription">A demo web portal to access web applications hosted using <span class="orange">free dynos of heroku(PAAS). </span> The demo experiments two applications for selected universities in Ethiopia. Applications are developed and maintained from the same place and can be accessed by the selected universities. Applications manange authorization of resources in the cloud </p>
 					</div>
 				</div>
 				<div class="tiles">
@@ -313,12 +313,13 @@
 					<div class="col-md-4">
 						<h1>CONTACT INFO</h1>
 							<p class="contact-desc">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus voluptatum necessi tatibus.
+							Use the following addresses to contact the developer of this web portal
+
 							</p>
-							<p><Strong>Address: </Strong> Block 508, Adama, Ethiopia</p>
-							<p><Strong>Call:</Strong> +251 913 21 57 34</p>						
+							<p><Strong>Address: </Strong> Block 508 R16, ASTU, Adama, Ethiopia</p>
+							<p><Strong>Call:</Strong> +251 921 33 11 55</p>						
 							<p><Strong>Fax: </Strong>+251 22331133</p>						
-							<p><Strong>Email: </Strong>tesgidey@gmail.com</p>						
+							<p><Strong>Email: </Strong>tesgidey12@gmail.com</p>						
 					</div>
 				</div>				
 			</div>
