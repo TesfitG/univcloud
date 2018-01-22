@@ -53,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-10">
-						<p class="drescription">A demo web portal to access web applications hosted using <span class="orange">free dynos of heroku(PAAS). </span> The demo experiments two applications for selected universities in Ethiopia. Applications are developed and maintained from the same place and can be accessed by the selected universities. Applications manange authorization of resources in the cloud </p>
+						<p class="drescription">A demo web portal to access web applications hosted and deployed using <span class="orange">free dynos of heroku(PAAS). </span> The demo experiments two applications for selected universities in Ethiopia. Applications are developed and maintained from the same place and can be accessed by the selected universities. Applications manange authorization of resources in the cloud </p>
 					</div>
 				</div>
 				<div class="tiles">
